@@ -1,0 +1,19 @@
+.btn {
+    margin: 0;
+    padding: 3px 6px;
+    vertical-align: middle;
+    border: none;
+    background-color: #535B99;
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+    data-icon {
+        float: right;
+        padding-left: 10px;
+        content: attr(data-icon); }
+    
